@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\charts.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\charts.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gradient.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\gradient.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\click_charts.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\click_charts.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hlnscroll.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\hlnscroll.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dial_chart4.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\dial_chart4.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\circle_chart.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\circle_chart.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hbarscroll.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\hbarscroll.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dial_chart.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\dial_chart.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gauge_chart.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\gauge_chart.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dial_chart3.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\dial_chart3.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dy_sp.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\dy_sp.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\spinner.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\spinner.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dial_chart2.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\dial_chart2.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\seek_bar.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\seek_bar.xml"
+    },
+    {
+        "merged": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\multi_touch.xml",
+        "source": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\menu\\multi_touch.xml"
+    }
+]

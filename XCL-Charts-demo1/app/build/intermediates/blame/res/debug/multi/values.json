@@ -1,0 +1,589 @@
+[
+    {
+        "outputFile": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 80,
+                    "endColumn": 19,
+                    "endOffset": 2411
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 5,
+                        "startOffset": 1981,
+                        "endLine": 161,
+                        "endColumn": 19,
+                        "endOffset": 4415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2416,
+                    "endLine": 159,
+                    "endColumn": 19,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 64,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endLine": 167,
+                    "endColumn": 19,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 5,
+                        "startOffset": 4600,
+                        "endLine": 178,
+                        "endColumn": 19,
+                        "endOffset": 4827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endLine": 173,
+                    "endColumn": 19,
+                    "endOffset": 4634
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 5,
+                        "startOffset": 4840,
+                        "endLine": 185,
+                        "endColumn": 19,
+                        "endOffset": 5007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 4639,
+                    "endColumn": 57,
+                    "endOffset": 4692
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 4697,
+                    "endColumn": 55,
+                    "endOffset": 4748
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 4753,
+                    "endColumn": 52,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 52,
+                    "endOffset": 4854
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 4859,
+                    "endColumn": 52,
+                    "endOffset": 4907
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 52,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 4912,
+                    "endColumn": 88,
+                    "endOffset": 4996
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 88,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 5001,
+                    "endColumn": 47,
+                    "endOffset": 5044
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 47,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5049,
+                    "endColumn": 46,
+                    "endOffset": 5091
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 46,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 5096,
+                    "endColumn": 62,
+                    "endOffset": 5154
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 62,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5159,
+                    "endColumn": 64,
+                    "endOffset": 5219
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 64,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 5224,
+                    "endColumn": 75,
+                    "endOffset": 5295
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 75,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 5300,
+                    "endColumn": 75,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endColumn": 75,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endColumn": 71,
+                    "endOffset": 5443
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 71,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 5448,
+                    "endColumn": 73,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 73,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 73,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1343,
+                        "endColumn": 73,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 73,
+                    "endOffset": 5665
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 73,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 5670,
+                    "endColumn": 61,
+                    "endOffset": 5727
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 61,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 5732,
+                    "endColumn": 73,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 73,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 68,
+                    "endOffset": 5870
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 68,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 5875,
+                    "endColumn": 72,
+                    "endOffset": 5943
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 72,
+                        "endOffset": 888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 5948,
+                    "endColumn": 70,
+                    "endOffset": 6014
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 70,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 6019,
+                    "endColumn": 73,
+                    "endOffset": 6088
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 73,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 6093,
+                    "endColumn": 67,
+                    "endOffset": 6156
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 67,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 6161,
+                    "endColumn": 66,
+                    "endOffset": 6223
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 66,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 6228,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 6514
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6519,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 6674
+                },
+                "from": {
+                    "file": "D:\\newappwork12\\tianyuappsquared\\XCL-Charts-demo1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

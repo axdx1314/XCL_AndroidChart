@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\newappwork12\tianyuappsquared\XCL-Charts-demo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ab9ba9caaef4a09c6e8cbe595f5a8a12e7f9e45">
+        <dex dex="D:\newappwork12\tianyuappsquared\XCL-Charts-demo1\app\build\intermediates\pre-dexed\debug\instant-run_4606ba7a7989873f933ae6d6009adec2ca2b4f7c.jar" />
+    </item>
+    <item
+        jar="D:\newappwork12\tianyuappsquared\XCL-Charts-demo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6e46b0518046db79c739fff18e7a3bd204e2d45">
+        <dex dex="D:\newappwork12\tianyuappsquared\XCL-Charts-demo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7808407dd6be84075974147a37e4e97ae80432a5.jar" />
+    </item>
+
+</items>
